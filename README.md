@@ -1,3 +1,5 @@
+> **Repository migrated:** Active development and independent `aiogram-coordination` releases now live in [aiogram-kit](https://github.com/ArmanAvanesyan/aiogram-kit/tree/main/packages/aiogram-coordination). Historical PRs, releases and assets remain here. See the [migration map](https://armanavanesyan.github.io/aiogram-kit/legacy-links/).
+
 # aiogram-coordination
 
 Shared task-scoped ownership for aiogram applications and independent libraries.
